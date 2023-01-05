@@ -18,8 +18,8 @@ esphome:
           condition:
             wifi.connected:
       - lambda: >
-            id(ble_tracker).set_scan_continuous(true);
-            id(ble_tracker).start_scan();
+          id(ble_tracker).set_scan_continuous(true);
+          id(ble_tracker).start_scan();
 
 api:
 

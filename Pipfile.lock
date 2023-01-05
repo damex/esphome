@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f9ed72289ebbdb05b7d645ec6499cc2c6980eeb0512c13711363b5d7f6f41834"
+            "sha256": "c0c68d4924473a0e784169db5c563c9f0eb263e7636c5c3a9eb13883bad7b9b9"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -274,6 +274,13 @@
             ],
             "version": "==1.6.1"
         },
+        "pathspec": {
+            "hashes": [
+                "sha256:3c95343af8b756205e2aba76e843ba9520a24dd84f68c22b9f93251507509dd6",
+                "sha256:56200de4077d9d0791465aa9095a01d421861e405b5096955051deefd697d6f6"
+            ],
+            "version": "==0.10.3"
+        },
         "platformio": {
             "hashes": [
                 "sha256:e111d7a86f676668e54c06cc9ebe986439b9d67692841c1792387cc6cb96513f"
@@ -486,6 +493,14 @@
                 "sha256:b9acddd652b585d75b20477888c56642fdade28bdfd3579aa24a4d2c037dd736"
             ],
             "version": "==1.2.0"
+        },
+        "yamllint": {
+            "hashes": [
+                "sha256:89bb5b5ac33b1ade059743cf227de73daa34d5e5a474b06a5e17fc16583b0cf2",
+                "sha256:9e3d8ddd16d0583214c5fdffe806c9344086721f107435f68bad990e5a88826b"
+            ],
+            "index": "pypi",
+            "version": "==1.28.0"
         },
         "zeroconf": {
             "hashes": [
